@@ -1,1 +1,1 @@
-# array-sorting-algorithms
+# Sorting Algorithms for Beginners
